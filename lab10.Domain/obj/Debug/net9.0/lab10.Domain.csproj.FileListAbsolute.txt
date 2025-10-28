@@ -1,0 +1,11 @@
+C:\Users\HP\RiderProjects\lab10\lab10.Domain\bin\Debug\net9.0\lab10.Domain.deps.json
+C:\Users\HP\RiderProjects\lab10\lab10.Domain\bin\Debug\net9.0\lab10.Domain.dll
+C:\Users\HP\RiderProjects\lab10\lab10.Domain\bin\Debug\net9.0\lab10.Domain.pdb
+C:\Users\HP\RiderProjects\lab10\lab10.Domain\obj\Debug\net9.0\lab10.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\RiderProjects\lab10\lab10.Domain\obj\Debug\net9.0\lab10.Domain.AssemblyInfoInputs.cache
+C:\Users\HP\RiderProjects\lab10\lab10.Domain\obj\Debug\net9.0\lab10.Domain.AssemblyInfo.cs
+C:\Users\HP\RiderProjects\lab10\lab10.Domain\obj\Debug\net9.0\lab10.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\RiderProjects\lab10\lab10.Domain\obj\Debug\net9.0\lab10.Domain.dll
+C:\Users\HP\RiderProjects\lab10\lab10.Domain\obj\Debug\net9.0\refint\lab10.Domain.dll
+C:\Users\HP\RiderProjects\lab10\lab10.Domain\obj\Debug\net9.0\lab10.Domain.pdb
+C:\Users\HP\RiderProjects\lab10\lab10.Domain\obj\Debug\net9.0\ref\lab10.Domain.dll

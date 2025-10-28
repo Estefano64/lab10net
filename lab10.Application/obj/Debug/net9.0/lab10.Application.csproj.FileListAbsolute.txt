@@ -1,0 +1,15 @@
+C:\Users\HP\RiderProjects\lab10\lab10.Application\obj\Debug\net9.0\lab10.Application.csproj.AssemblyReference.cache
+C:\Users\HP\RiderProjects\lab10\lab10.Application\obj\Debug\net9.0\lab10.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\RiderProjects\lab10\lab10.Application\obj\Debug\net9.0\lab10.Application.AssemblyInfoInputs.cache
+C:\Users\HP\RiderProjects\lab10\lab10.Application\obj\Debug\net9.0\lab10.Application.AssemblyInfo.cs
+C:\Users\HP\RiderProjects\lab10\lab10.Application\obj\Debug\net9.0\lab10.Application.csproj.CoreCompileInputs.cache
+C:\Users\HP\RiderProjects\lab10\lab10.Application\bin\Debug\net9.0\lab10.Application.deps.json
+C:\Users\HP\RiderProjects\lab10\lab10.Application\bin\Debug\net9.0\lab10.Application.dll
+C:\Users\HP\RiderProjects\lab10\lab10.Application\bin\Debug\net9.0\lab10.Application.pdb
+C:\Users\HP\RiderProjects\lab10\lab10.Application\bin\Debug\net9.0\lab10.Domain.dll
+C:\Users\HP\RiderProjects\lab10\lab10.Application\bin\Debug\net9.0\lab10.Domain.pdb
+C:\Users\HP\RiderProjects\lab10\lab10.Application\obj\Debug\net9.0\lab10.Ap.0FFF0E70.Up2Date
+C:\Users\HP\RiderProjects\lab10\lab10.Application\obj\Debug\net9.0\lab10.Application.dll
+C:\Users\HP\RiderProjects\lab10\lab10.Application\obj\Debug\net9.0\refint\lab10.Application.dll
+C:\Users\HP\RiderProjects\lab10\lab10.Application\obj\Debug\net9.0\lab10.Application.pdb
+C:\Users\HP\RiderProjects\lab10\lab10.Application\obj\Debug\net9.0\ref\lab10.Application.dll
