@@ -1,0 +1,45 @@
+name: Build and Deploy .NET Application
+
+on:
+  push:
+    branches:
+      - main  # Se ejecuta automáticamente cuando se suben cambios a la rama principal
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Check out code
+      uses: actions/checkout@v4
+      
+    - name: Set up .NET
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: '9.0.x'
+        
+    - name: Restore dependencies
+      run: dotnet restore
+      
+    - name: Build application
+      run: dotnet build --configuration Release --no-restore
+      
+    - name: Run tests
+      run: dotnet test --no-build --verbosity normal
+      
+    - name: Publish application
+      run: dotnet publish --configuration Release --output ./published --no-build
+      
+    - name: Upload artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: published-app
+        path: ./published
+        
+    # Ejemplo de despliegue (descomenta y configura según tu necesidad)
+    # - name: Deploy to server
+    #   run: |
+    #     scp -r ./published username@server:/path/to/deploy
